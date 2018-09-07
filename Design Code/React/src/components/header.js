@@ -13,4 +13,9 @@ const Header = ({ siteTitle }) => (
   </div>
 )
 
+
+class Header extends React.Component {
+
+}
+
 export default Header
